@@ -15,7 +15,7 @@ namespace primerEjercicioPoo
         public int Edad { get; set; }
 
         //metodo de mi clase Personas
-        // presentarsse
+        // presentarse
 
         public void Presentar()
                 {
